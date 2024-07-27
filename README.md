@@ -1,2 +1,0 @@
-# Introduction_to_Operating_System-Specialzation
-Introduction to Operating Systems Specialization
